@@ -1,0 +1,2 @@
+# mysite
+static website test
