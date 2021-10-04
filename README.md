@@ -1,2 +1,2 @@
-# mysite
-static website test
+# First GitHub repo site
+static website
